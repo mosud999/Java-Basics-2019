@@ -73,7 +73,7 @@ class Student4{
     s2.display();  
    } 
    
-    Note: Constructor can be overloaded but can not be overridden.
+    Note: Constructor can be overloaded by changing number and type of parameters but can not be overridden.
 }  
  */
 
